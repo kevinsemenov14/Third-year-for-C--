@@ -1,0 +1,24 @@
+kevin semenov
+class : sc1c
+date 10/3/16
+
+
+
+Enter the rectangle length 10
+Enter the rectangle Width 10
+Enter the first side of the triangle10
+Enter the second side of the triangle 10
+Enter the third side of the triangle 10
+
+the area of the rectangle is 100
+the perimeter of the rectangle is 40
+the area of the triangle is 43.3013
+the perimeter of the triangle is 30
+
+outputing full name
+E:\Cs1C\assugnment 5\Debug\assugnment 5.exe
+kevin
+semenov
+
+Third letter of first name v
+third letter of the second word m

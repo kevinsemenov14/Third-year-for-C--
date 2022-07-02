@@ -1,0 +1,54 @@
+ Nike basketball shoes	$179.99 	22
+ Under Armour T-shirt   $29.99 	    33
+ Brooks running shoes	$121.44 	11
+ Asics running shoes	$165.88 	20
+ Under Armour shorts	$45.77 	    77
+
+Enter item name
+ Nike basketball shoes
+
+Enter item cost
+179.99 
+
+Enter item quantity
+4
+Enter item name
+Under Armour T-shirt
+
+Enter item cost
+29.99
+
+Enter item quantity
+3
+Enter item name
+Under Armour shorts
+
+Enter item cost
+45.77
+
+Enter item quantity
+4
+Enter item name
+Asics running shoes
+
+Enter item cost
+165.88 
+
+Enter item quantity
+1
+
+Name of equipment     Cost      Quantity       
+Nike basketball shoes 179.99    4              
+Under Armour T-shirt  29.99     3              
+Under Armour shorts   45.77     4              
+Asics running shoes   165.88    1  
+            
+Your total without tax is 9348.36
+total with tax is 10984.3
+
+ Nike basketball shoes	$179.99 	18
+ Under Armour T-shirt   $29.99 	    30
+ Brooks running shoes	$121.44 	7
+ Asics running shoes	$165.88 	19
+ Under Armour shorts	$45.77 	    77
+

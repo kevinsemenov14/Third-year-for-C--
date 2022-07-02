@@ -1,0 +1,23 @@
+Enter new age for student 3
+
+Please enter an age greater then 5 your age was 3
+Enter new age for student 4
+
+Please enter an age greater then 5 your age was 4
+Enter new age for student 8
+
+
+kevin           668888              (949)-55-1234     8         M         firstyear           3.4       
+Enter new GPA for student -2
+
+Please enter a GPA greater then 0 your gpa was -2
+Enter new GPA for student 1.2
+
+
+kevin           668888              (949)-55-1234     8         M         firstyear           1.2       
+ Do you want to crash your program Y or N
+Y
+Assertion failed: answer != 'Y', file ..\main.cpp, line 77
+
+This application has requested the Runtime to terminate it in an unusual way.
+Please contact the application's support team for more information.

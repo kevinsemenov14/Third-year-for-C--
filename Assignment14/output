@@ -1,0 +1,14 @@
+88 78 62 123 60  first list
+60 123 62 78 88  second list reversed
+88 78 123 60 deleted third item
+60 123 78 88 deleted third item
+88 78 70 123 60 added to the middle
+60 123 70 78 88 added to the middle
+
+ part two using doubles
+88.1 78.1 62.1 123.1 60.1  first list
+60.1 123.1 62.1 78.1 88.1  second list reversed
+88.1 78.1 123.1 60.1 deleted third item
+60.1 123.1 78.1 88.1 deleted third item
+88.1 78.1 70 123.1 60.1 added to the middle
+60.1 123.1 70 78.1 88.1 added to the middle
